@@ -1,20 +1,9 @@
-<code>
-	<style type="text/css">
-		strong {
-		color: #467520;
-	}
-	a {
-		text-decoration: none;
-		color: #cc0606;
-	}
-		
-	</style>
-</code>
+
 <ul>
-	<li><a href="https://github.com/twbs/bootstrap">Download</a> the latest bootstrap from their official Github page</li>
+	<li><a style="color: #cc0606;" href="https://github.com/twbs/bootstrap">Download</a> the latest bootstrap from their official Github page</li>
 	<li><a href="https://nodejs.org/en/download/">Install node</a> Modules in your system</li>
 	<li>Now open a terminal and navigate the bootstrap folder as a root</li>
-	<li>Run <strong>npm install</strong> to install all local dependencies </li>
+	<li>Run <strong style="color: #467520;">npm install</strong> to install all local dependencies </li>
 	<li><a href="https://www.ruby-lang.org/en/documentation/installation/">Install ruby </a></li>
 	<li>install <a href="https://bundler.io/">Bundler</a> with <strong>sudo gem install bundler</strong>
 		<ul>
