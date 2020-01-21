@@ -1,14 +1,15 @@
-<style>
-	strong {
+<code>
+	<style type="text/css">
+		strong {
 		color: #467520;
 	}
 	a {
 		text-decoration: none;
 		color: #cc0606;
 	}
-
-</style>
-
+		
+	</style>
+</code>
 <ul>
 	<li><a href="https://github.com/twbs/bootstrap">Download</a> the latest bootstrap from their official Github page</li>
 	<li><a href="https://nodejs.org/en/download/">Install node</a> Modules in your system</li>
